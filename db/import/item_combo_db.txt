@@ -1,0 +1,6 @@
+// Item Combos Database
+//
+// Structure of Database:
+// ID:ID:ID:ID,{ Script }
+
+4879:39589,{ bonus bAtkRate,10; }
